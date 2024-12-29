@@ -1,0 +1,64 @@
+*{
+    margin:0%;
+    padding:0%;
+}
+h1 {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#d1{
+    margin-left: 70px;
+    margin-right: 70px;
+    border: solid 5px;
+    color: black;
+    box-shadow:2px 2px 40px black;
+}
+nav {
+    padding: 20px;
+    background-color: blue;
+}
+#titre {
+    font-size: 23px;
+    color: red;
+    font-family: Algerian;
+    border: 100%;
+    box-shadow:2px 2px 40px black;
+}
+#titre1 {
+    font-size: 23px;
+    color: red;
+    text-align: center;
+    font-family: Algerian;
+    background-color:yellow;
+    box-shadow:2px 2px 40px black;
+}
+.content {
+    background-image: url(تلوش\ الشاطئ.jpg);
+    background-size: cover;
+    height: 900px;
+    box-shadow:2px 2px 40px black;
+}
+.c1 {
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 10px;
+}
+.c2 {
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 10px;
+    filter: drop-shadow(1px 1px 20px yellow);
+}
+#d11 {
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 10px;
+    color: red;
+}
+footer {
+    padding: 20px;
+    background-color: blue;
+    color: white;
+    height: 20px;
+    text-align: center;
+}
